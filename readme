@@ -1,0 +1,14 @@
+Baixar node 
+npm init -y
+express npm i express
+
+
+
+query params
+    consultas
+
+route params(get/put ..)
+
+body params
+    
+    .env - coloca a conexao com db

@@ -1,0 +1,21 @@
+{
+  "name": "api-nodejs",
+  "version": "1.0.0",
+  "description": "Baixar node \r npm init -y\r express npm i express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^6.0.1",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "prisma": "^6.0.1"
+  },
+  "type": "module"
+}
